@@ -47,7 +47,7 @@ const TAB_DATA = [
     content: (
       <div>
         <div className="text-xl font-semibold mb-2">
-          Frontend Web Development
+          Front-end Web Development
         </div>
         <div className="text-sm italic mb-2">
           Re:Coded
@@ -74,7 +74,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a dedicated Frontend Web Developer with a background in Computer Engineering. Proficient in JavaScript, HTML, CSS,
+            I am a dedicated Front-end Web Developer with a background in Computer Engineering. Proficient in JavaScript, HTML, CSS,
             TypeScript, and React, I blend technical expertise with creative flair to craft engaging and user-centric web applications. My
             commitment to clean, maintainable code reflects my engineering background, while my passion for web development drives me
             to stay abreast of the latest industry trends. I take pride in my ability to create user-friendly interfaces, optimize website
